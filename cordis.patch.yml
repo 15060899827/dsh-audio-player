@@ -1,0 +1,4 @@
+# dsh-audio：把本地音频文件渲染成对话里的播放器
+- insert:
+    - id: dsh-audio
+      name: dsh-audio-player
